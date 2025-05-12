@@ -108,13 +108,6 @@ The notebook includes:
 * Line plots to show seasonal production patterns
 * Before-and-after model performance plots
 
-You can place image previews here if you export them:
-
-```markdown
-![Power Generation Histogram](images/power_hist.png)
-![Model Performance](images/model_performance.png)
-```
-
 ---
 
 ## 💻 Getting Started
